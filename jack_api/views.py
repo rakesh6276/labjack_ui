@@ -5,8 +5,8 @@ import collections
 import sys
 import warnings
 
-from u3 import FeedbackCommand
-from labjack import ljm
+#from u3 import FeedbackCommand
+#from labjack import ljm
 
 
 try:

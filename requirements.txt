@@ -2,7 +2,7 @@ device==0.1
 Django==2.2.6
 djangorestframework==3.10.3
 et-xmlfile==1.0.1
-httplib2==0.14.0
+httplib2==0.18.0
 jdcal==1.4.1
 labjack-ljm==1.20.0
 LabJackPython==2.0.0
